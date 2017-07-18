@@ -1,7 +1,3 @@
 # Dynare-for-DSGE-Models
-//This model is a DSGE model with Financial Accelerator Mechanism. It is
-//developed in order to examine the effectiveness of reserve requirements on
-//current account deficit in small open economies. 
-//Dilþat Tugba Dalkýran
-//Bilkent University 2011-2012
-//Master's Thesis
+thesis.mod file is my Master's Thesis in 2012. It is a DSGE model with a financial accelerator mechanism. To execute it you need Dynare installed on Matlab. I also included my thesis along with the code so that understanding the model will be easier. 
+The other two mod files are the codes of the papers with the same name. The papers are  in pdf format. 
